@@ -1,0 +1,5 @@
+dsf: 5 sekunder
+sdf: 5 sekunder
+dsaf: 8 sekunder
+saf: 9 sekunder
+sdfggf: 9 sekunder
