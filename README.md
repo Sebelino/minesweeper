@@ -1,4 +1,4 @@
-minesweeper
+Sebastian Olsson's Minesweeper
 ===========
 
 Simple command-line Minesweeper.
